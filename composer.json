@@ -21,7 +21,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Unirest": "src"
+      "Unirest\\": "src/Unirest/"
     }
   },
   "support": {
