@@ -19,14 +19,6 @@
       "role": "Developer"
     }
   ],
-  "require": {
-    "php": ">=5.4.0",
-    "ext-curl": "*",
-    "ext-json": "*"
-  },
-  "require-dev": {
-    "phpunit/phpunit": "~4.4"
-  },
   "autoload": {
     "psr-0": {
       "Unirest": "src"
