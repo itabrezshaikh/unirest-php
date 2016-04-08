@@ -1,5 +1,5 @@
 {
-  "name": "apimatic/unirest-php",
+  "name": "itabrezshaikh/unirest-php",
   "description": "Unirest PHP",
   "keywords": ["rest", "curl", "http", "https", "client"],
   "type": "library",
