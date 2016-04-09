@@ -1,30 +1,11 @@
 {
   "name": "itabrezshaikh/unirest-php",
   "description": "Unirest PHP",
-  "keywords": ["rest", "curl", "http", "https", "client"],
   "type": "library",
-  "homepage": "https://github.com/apimatic/unirest-php",
   "license": "MIT",
-  "authors": [
-    {
-      "name": "Mashape",
-      "email": "opensource@mashape.com",
-      "homepage": "https://www.mashape.com",
-      "role": "Developer"
-    },
-    {
-      "name": "APIMATIC",
-      "email": "opensource@apimatic.io",
-      "homepage": "https://apimatic.io",
-      "role": "Developer"
-    }
-  ],
   "autoload": {
     "psr-4": {
       "Unirest\\": "src/Unirest/"
     }
-  },
-  "support": {
-    "email": "opensource@apimatic.io"
   }
 }
